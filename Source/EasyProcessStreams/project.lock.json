@@ -1,0 +1,97 @@
+{
+  "locked": false,
+  "version": 1,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "Pipe/0.0.1": {
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "mscorlib",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net45/Pipe.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Pipe.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.1": {
+      "Pipe/0.0.1": {
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "mscorlib",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net451/Pipe.dll": {}
+        },
+        "runtime": {
+          "lib/net451/Pipe.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2": {
+      "Pipe/0.0.1": {
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "mscorlib",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net452/Pipe.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Pipe.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6": {
+      "Pipe/0.0.1": {
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "mscorlib",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net46/Pipe.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Pipe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pipe/0.0.1": {
+      "sha512": "L3Z3FarABmP14MePAYwXKwoFTYWgJQY+NIIc5niwAPWg9448EqaVPYP/dCx3HBP4xU16NehRksa/mZsYEZNf+w==",
+      "files": [
+        "lib/net45/Pipe.dll",
+        "lib/net45/Pipe.xml",
+        "lib/net451/Pipe.dll",
+        "lib/net451/Pipe.xml",
+        "lib/net452/Pipe.dll",
+        "lib/net452/Pipe.xml",
+        "lib/net46/Pipe.dll",
+        "lib/net46/Pipe.xml",
+        "Pipe.0.0.1.nupkg",
+        "Pipe.0.0.1.nupkg.sha512",
+        "Pipe.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [
+      "Pipe >= 0.0.1"
+    ],
+    ".NETFramework,Version=v4.5": [],
+    ".NETFramework,Version=v4.5.1": [],
+    ".NETFramework,Version=v4.5.2": [],
+    ".NETFramework,Version=v4.6": []
+  }
+}

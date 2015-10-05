@@ -1,0 +1,32 @@
+{
+    "version": "0.0.0",
+    "title": "Easy Process Streams Unit Tests",
+    "description": "Easy Process Sterams makes accessing Standard Output, Standard Error and Standard Input of a Process easy.",
+    "authors": [
+        "narkhedegs@gmail.com"
+    ],
+    "owners": [
+        "narkhedegs@gmail.com"
+    ],
+    "copyright": "Copyright (C) narkhedegs@gmail.com",
+    "tags": [
+        "process",
+        "StreamReader",
+        "StreamWriter"
+    ],
+    "projectUrl": "https://github.com/narkhedegs/EasyProcessStreams",
+    "licenseUrl": "https://raw.githubusercontent.com/narkhedegs/EasyProcessStreams/master/LICENSE",
+    "iconUrl": "",
+
+    "frameworks": {
+        "net45": { },
+        "net451": { },
+        "net452": { },
+        "net46": { }
+    },
+    "dependencies": {
+        "EasyProcessStreams": "0.0.0",
+        "NUnit": "2.6.4",
+        "Moq": "4.2.1507.118"
+    }
+}

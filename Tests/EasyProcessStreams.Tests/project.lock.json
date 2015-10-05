@@ -1,0 +1,188 @@
+{
+  "locked": false,
+  "version": 1,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "Moq/4.2.1507.0118": {
+        "compile": {
+          "lib/net40/Moq.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Moq.dll": {}
+        }
+      },
+      "NUnit/2.6.4": {
+        "compile": {
+          "lib/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.dll": {}
+        }
+      },
+      "Pipe/0.0.1": {
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "mscorlib",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net45/Pipe.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Pipe.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.1": {
+      "Moq/4.2.1507.0118": {
+        "compile": {
+          "lib/net40/Moq.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Moq.dll": {}
+        }
+      },
+      "NUnit/2.6.4": {
+        "compile": {
+          "lib/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.dll": {}
+        }
+      },
+      "Pipe/0.0.1": {
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "mscorlib",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net451/Pipe.dll": {}
+        },
+        "runtime": {
+          "lib/net451/Pipe.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2": {
+      "Moq/4.2.1507.0118": {
+        "compile": {
+          "lib/net40/Moq.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Moq.dll": {}
+        }
+      },
+      "NUnit/2.6.4": {
+        "compile": {
+          "lib/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.dll": {}
+        }
+      },
+      "Pipe/0.0.1": {
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "mscorlib",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net452/Pipe.dll": {}
+        },
+        "runtime": {
+          "lib/net452/Pipe.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6": {
+      "Moq/4.2.1507.0118": {
+        "compile": {
+          "lib/net40/Moq.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Moq.dll": {}
+        }
+      },
+      "NUnit/2.6.4": {
+        "compile": {
+          "lib/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.dll": {}
+        }
+      },
+      "Pipe/0.0.1": {
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "mscorlib",
+          "System",
+          "System.Core"
+        ],
+        "compile": {
+          "lib/net46/Pipe.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Pipe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Moq/4.2.1507.0118": {
+      "sha512": "QfnD/kZcaV6mX1cWHta3yMn/d9ly9Q62yNmHQVArKaZcFcuFb4USYeHR/4XoA258WeJ2XfrGMPVQVIURRCoyNw==",
+      "files": [
+        "lib/net35/Moq.dll",
+        "lib/net35/Moq.xml",
+        "lib/net40/Moq.dll",
+        "lib/net40/Moq.xml",
+        "lib/sl5/Moq.Silverlight.dll",
+        "lib/sl5/Moq.Silverlight.xml",
+        "Moq.4.2.1507.118.nupkg",
+        "Moq.4.2.1507.118.nupkg.sha512",
+        "Moq.nuspec"
+      ]
+    },
+    "NUnit/2.6.4": {
+      "sha512": "cmSPvaCMRSP0DI19FP1Liw9DyJY3E/vOY1OrVaeJBZpZFWHkmT3fB9ngGWnZX/ftvA7zJEbghEaw3Yd+u4YFAw==",
+      "files": [
+        "lib/nunit.framework.dll",
+        "lib/nunit.framework.xml",
+        "license.txt",
+        "NUnit.2.6.4.nupkg",
+        "NUnit.2.6.4.nupkg.sha512",
+        "NUnit.nuspec"
+      ]
+    },
+    "Pipe/0.0.1": {
+      "sha512": "L3Z3FarABmP14MePAYwXKwoFTYWgJQY+NIIc5niwAPWg9448EqaVPYP/dCx3HBP4xU16NehRksa/mZsYEZNf+w==",
+      "files": [
+        "lib/net45/Pipe.dll",
+        "lib/net45/Pipe.xml",
+        "lib/net451/Pipe.dll",
+        "lib/net451/Pipe.xml",
+        "lib/net452/Pipe.dll",
+        "lib/net452/Pipe.xml",
+        "lib/net46/Pipe.dll",
+        "lib/net46/Pipe.xml",
+        "Pipe.0.0.1.nupkg",
+        "Pipe.0.0.1.nupkg.sha512",
+        "Pipe.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [
+      "EasyProcessStreams >= 0.0.0",
+      "NUnit >= 2.6.4",
+      "Moq >= 4.2.1507.118"
+    ],
+    ".NETFramework,Version=v4.5": [],
+    ".NETFramework,Version=v4.5.1": [],
+    ".NETFramework,Version=v4.5.2": [],
+    ".NETFramework,Version=v4.6": []
+  }
+}
