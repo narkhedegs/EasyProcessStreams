@@ -1,11 +1,11 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bn0m5c1mx1o9e5x9/branch/master?svg=true)](https://ci.appveyor.com/project/narkhedegs/easyprocessstreams/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/bn0m5c1mx1o9e5x9?svg=true)](https://ci.appveyor.com/project/narkhedegs/easyprocessstreams)
 # Easy Process Streams
 
 Process's standard output, input and error made easy.
 
 <h1 align="center">
   <br>
-  <img width="300" src="https://www.iconfinder.com/icons/376113/776060/512/raster?token=1444070703-ReEeWIDgKcWRqhC7HS6XQK23xIug05MA-Ls8eFW/ARb8N3L/Khz3SfWJHoOM%3D">
+  <img width="300" src="https://raw.githubusercontent.com/narkhedegs/EasyProcessStreams/master/easy.png">
   <br>
   <br>
 </h1>
